@@ -16,6 +16,7 @@
 		6DE6D28522D81DBB003594BE /* PokedexCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE6D28422D81DBB003594BE /* PokedexCell.swift */; };
 		6DE6D28722D828FF003594BE /* Pokemon.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE6D28622D828FF003594BE /* Pokemon.swift */; };
 		6DE6D28922D8311A003594BE /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE6D28822D8311A003594BE /* Service.swift */; };
+		6DE6D28B22DC2FC5003594BE /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DE6D28A22DC2FC5003594BE /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		6DE6D28422D81DBB003594BE /* PokedexCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PokedexCell.swift; sourceTree = "<group>"; };
 		6DE6D28622D828FF003594BE /* Pokemon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pokemon.swift; sourceTree = "<group>"; };
 		6DE6D28822D8311A003594BE /* Service.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		6DE6D28A22DC2FC5003594BE /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 			isa = PBXGroup;
 			children = (
 				6DE6D28422D81DBB003594BE /* PokedexCell.swift */,
+				6DE6D28A22DC2FC5003594BE /* InfoView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -193,6 +196,7 @@
 				6DE6D28322D814D4003594BE /* Extensions.swift in Sources */,
 				6DE6D26622D80F6D003594BE /* AppDelegate.swift in Sources */,
 				6DE6D28922D8311A003594BE /* Service.swift in Sources */,
+				6DE6D28B22DC2FC5003594BE /* InfoView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

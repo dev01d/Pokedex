@@ -12,6 +12,13 @@ class PokedexCell: UICollectionViewCell {
 
 //    MARK: - Properties
     
+    var pokemon: Pokemon? {
+        didSet {
+            nameLabel.text = pokemon?.name
+            imageView.image = pokemon?.image
+        }
+    }
+    
     let imageView: UIImageView = {
         let iv = UIImageView()
         iv.backgroundColor = .groupTableViewBackground
@@ -22,7 +29,6 @@ class PokedexCell: UICollectionViewCell {
     lazy var nameContainerView: UIView = {
         let view = UIView()
         view.backgroundColor = .mainRed()
-       
         view.addSubview(nameLabel)
         nameLabel.center(inView: view)
         
@@ -49,6 +55,14 @@ class PokedexCell: UICollectionViewCell {
         fatalError("init(coder:) has not been implemented")
     }
     
+//    MARK: - Selectors
+    
+    @objc func handleLongPress(sender: UILongPressGestureRecognizer) {
+        if sender.state == .began {
+            print("yup")
+        }
+    }
+    
 //    MARK: - Helper Functions
     
     func configureViewComponents() {
@@ -60,5 +74,9 @@ class PokedexCell: UICollectionViewCell {
         
         addSubview(nameContainerView)
         nameContainerView.anchor(top: nil, left: leftAnchor, bottom: bottomAnchor, right: rightAnchor, paddingTop: 0, paddingLeft: 0, paddingBottom: 0, paddingRight: 0, width: 0, height: 32)
+        
+        let longPressGestureRecognizer = UILongPressGestureRecognizer(target: self, action: #selector(handleLongPress))
+        self.addGestureRecognizer(longPressGestureRecognizer)
+        
     }
 }

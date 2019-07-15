@@ -29,7 +29,7 @@ class Pokemon {
         self.id = id
         
         if let name = dictionary["name"] as? String {
-            self.name = name
+            self.name = name.firstUppercased
         }
         if let imageUrl = dictionary["imageUrl"] as? String {
             self.imageUrl = imageUrl
