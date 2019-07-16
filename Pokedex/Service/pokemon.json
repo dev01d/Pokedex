@@ -1,0 +1,2617 @@
+[
+    null,
+    {
+        "attack": 49,
+        "defense": 49,
+        "description": "Bulbasaur can be seen napping in bright sunlight.\nThere is a seed on its back. By soaking up the sun’s rays,\nthe seed grows progressively larger.",
+        "evolutionChain": [
+            {
+                "id": "2",
+                "name": "ivysaur"
+            },
+            {
+                "id": "3",
+                "name": "venusaur"
+            }
+        ],
+        "height": 7,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+        "name": "bulbasaur",
+        "type": "poison",
+        "weight": 69
+    },
+    {
+        "attack": 62,
+        "defense": 63,
+        "defense:": 63,
+        "description": "There is a bud on this Pokémon’s back. To support its weight,\nIvysaur’s legs and trunk grow thick and strong.\nIf it starts spending more time lying in the sunlight,\nit’s a sign that the bud will bloom into a large flower soon.",
+        "evolutionChain": [
+            {
+                "id": "2",
+                "name": "ivysaur"
+            },
+            {
+                "id": "3",
+                "name": "venusaur"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+        "name": "ivysaur",
+        "type": "poison",
+        "weight": 130
+    },
+    {
+        "attack": 82,
+        "defense": 83,
+        "defense:": 83,
+        "description": "There is a large flower on Venusaur’s back. The flower is said\nto take on vivid colors if it gets plenty of nutrition and sunlight.\nThe flower’s aroma soothes the emotions of people.",
+        "evolutionChain": [
+            {
+                "id": "2",
+                "name": "ivysaur"
+            },
+            {
+                "id": "3",
+                "name": "venusaur"
+            }
+        ],
+        "height": 20,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+        "name": "venusaur",
+        "type": "poison",
+        "weight": 1000
+    },
+    {
+        "attack": 52,
+        "defense": 43,
+        "defense:": 43,
+        "description": "The flame that burns at the tip of its tail is an indication\nof its emotions. The flame wavers when Charmander\nis enjoying itself. If the Pokémon becomes enraged,\nthe flame burns fiercely.",
+        "evolutionChain": [
+            {
+                "id": "5",
+                "name": "charmeleon"
+            },
+            {
+                "id": "6",
+                "name": "charizard"
+            }
+        ],
+        "height": 6,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+        "name": "charmander",
+        "type": "fire",
+        "weight": 85
+    },
+    {
+        "attack": 64,
+        "defense": 58,
+        "description": "Charmeleon mercilessly destroys its foes using its sharp claws. If it encounters a strong foe, it turns aggressive. In this excited state, the flame at the tip of its tail flares with a bluish white color.",
+        "evolutionChain": [
+            {
+                "id": "5",
+                "name": "charmeleon"
+            },
+            {
+                "id": "6",
+                "name": "charizard"
+            }
+        ],
+        "height": 11,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+        "name": "charmeleon",
+        "type": "fire",
+        "weight": 190
+    },
+    {
+        "attack": 84,
+        "defense": 78,
+        "defense:": 78,
+        "description": "Charizard flies around the sky in search of powerful opponents.\nIt breathes fire of such great heat that it melts anything.\nHowever, it never turns its fiery breath on any opponent\nweaker than itself.",
+        "evolutionChain": [
+            {
+                "id": "5",
+                "name": "charmeleon"
+            },
+            {
+                "id": "6",
+                "name": "charizard"
+            }
+        ],
+        "height": 17,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+        "name": "charizard",
+        "type": "flying",
+        "weight": 905
+    },
+    {
+        "attack": 48,
+        "defense": 65,
+        "description": "Squirtle’s shell is not merely used for protection. The shell’s rounded shape and the grooves on its surface help minimize resistance in water, enabling this Pokémon to swim at high speeds.",
+        "evolutionChain": [
+            {
+                "id": "8",
+                "name": "wartortle"
+            },
+            {
+                "id": "9",
+                "name": "blastoise"
+            }
+        ],
+        "height": 5,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+        "name": "squirtle",
+        "type": "water",
+        "weight": 90
+    },
+    {
+        "attack": 63,
+        "defense": 80,
+        "description": "Its tail is large and covered with a rich, thick fur. The tail becomes increasingly deeper in color as Wartortle ages. The scratches on its shell are evidence of this Pokémon’s toughness as a battler.",
+        "evolutionChain": [
+            {
+                "id": "8",
+                "name": "wartortle"
+            },
+            {
+                "id": "9",
+                "name": "blastoise"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+        "name": "wartortle",
+        "type": "water",
+        "weight": 225
+    },
+    {
+        "attack": 83,
+        "defense": 100,
+        "description": "A brutal POKéMON with pressurized water jets on its\fshell. They are used for high speed tackles.",
+        "evolutionChain": [
+            {
+                "id": "8",
+                "name": "wartortle"
+            },
+            {
+                "id": "9",
+                "name": "blastoise"
+            }
+        ],
+        "height": 16,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+        "name": "blastoise",
+        "type": "water",
+        "weight": 855
+    },
+    {
+        "attack": 30,
+        "defense": 35,
+        "description": "Its short feet are tipped with suction pads that\fenable it to tirelessly climb slopes and walls.",
+        "evolutionChain": [
+            {
+                "id": "11",
+                "name": "metapod"
+            },
+            {
+                "id": "12",
+                "name": "butterfree"
+            }
+        ],
+        "height": 3,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+        "name": "caterpie",
+        "type": "bug",
+        "weight": 29
+    },
+    {
+        "attack": 20,
+        "defense": 55,
+        "description": "This POKéMON is vulnerable to attack while its\fshell is soft, exposing its weak and tender body.",
+        "evolutionChain": [
+            {
+                "id": "11",
+                "name": "metapod"
+            },
+            {
+                "id": "12",
+                "name": "butterfree"
+            }
+        ],
+        "height": 7,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+        "name": "metapod",
+        "type": "bug",
+        "weight": 99
+    },
+    {
+        "attack": 45,
+        "defense": 50,
+        "description": "In battle, it flaps its wings at high speed to\frelease highly toxic dust into the air.",
+        "evolutionChain": [
+            {
+                "id": "11",
+                "name": "metapod"
+            },
+            {
+                "id": "12",
+                "name": "butterfree"
+            }
+        ],
+        "height": 11,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+        "name": "butterfree",
+        "type": "flying",
+        "weight": 320
+    },
+    {
+        "attack": 35,
+        "defense": 30,
+        "description": "Often found in forests, eating leaves.\fIt has a sharp venomous stinger on its head.",
+        "evolutionChain": [
+            {
+                "id": "14",
+                "name": "kakuna"
+            },
+            {
+                "id": "15",
+                "name": "beedrill"
+            }
+        ],
+        "height": 3,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+        "name": "weedle",
+        "type": "poison",
+        "weight": 32
+    },
+    {
+        "attack": 25,
+        "defense": 50,
+        "description": "Almost incapable of moving, this POKéMON can only\fharden its shell to protect itself from predators.",
+        "evolutionChain": [
+            {
+                "id": "14",
+                "name": "kakuna"
+            },
+            {
+                "id": "15",
+                "name": "beedrill"
+            }
+        ],
+        "height": 6,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+        "name": "kakuna",
+        "type": "poison",
+        "weight": 100
+    },
+    {
+        "attack": 90,
+        "defense": 40,
+        "description": "Flies at high speed and attacks using its large\fvenomous stingers on its forelegs and tail.",
+        "evolutionChain": [
+            {
+                "id": "14",
+                "name": "kakuna"
+            },
+            {
+                "id": "15",
+                "name": "beedrill"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+        "name": "beedrill",
+        "type": "poison",
+        "weight": 295
+    },
+    {
+        "attack": 45,
+        "defense": 40,
+        "description": "A common sight in forests and woods. It flaps its\fwings at ground level to kick up blinding sand.",
+        "evolutionChain": [
+            {
+                "id": "17",
+                "name": "pidgeotto"
+            },
+            {
+                "id": "18",
+                "name": "pidgeot"
+            }
+        ],
+        "height": 3,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+        "name": "pidgey",
+        "type": "flying",
+        "weight": 18
+    },
+    {
+        "attack": 60,
+        "defense": 55,
+        "description": "Very protective of its sprawling territorial area,\fthis POKéMON will fiercely peck at any intruder.",
+        "evolutionChain": [
+            {
+                "id": "17",
+                "name": "pidgeotto"
+            },
+            {
+                "id": "18",
+                "name": "pidgeot"
+            }
+        ],
+        "height": 11,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+        "name": "pidgeotto",
+        "type": "flying",
+        "weight": 300
+    },
+    {
+        "attack": 80,
+        "defense": 75,
+        "defense:": 75,
+        "description": "When hunting, it skims the surface of water at high\fspeed to pick off unwary prey such as MAGIKARP.",
+        "evolutionChain": [
+            {
+                "id": "17",
+                "name": "pidgeotto"
+            },
+            {
+                "id": "18",
+                "name": "pidgeot"
+            }
+        ],
+        "height": 15,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+        "name": "pidgeot",
+        "type": "flying",
+        "weight": 395
+    },
+    {
+        "attack": 56,
+        "defense": 35,
+        "description": "Bites anything when it attacks. Small and very\fquick, it is a common sight in many places.",
+        "evolutionChain": [
+            {
+                "id": "20",
+                "name": "raticate"
+            }
+        ],
+        "height": 3,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+        "name": "rattata",
+        "type": "normal",
+        "weight": 35
+    },
+    {
+        "attack": 81,
+        "defense": 60,
+        "description": "It uses its whis­ kers to maintain its balance.\fIt apparently slows down if they are cut off.",
+        "evolutionChain": [
+            {
+                "id": "20",
+                "name": "raticate"
+            }
+        ],
+        "height": 7,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+        "name": "raticate",
+        "type": "normal",
+        "weight": 185
+    },
+    {
+        "attack": 60,
+        "defense": 30,
+        "description": "Eats bugs in grassy areas. It has to flap its\fshort wings at high speed to stay airborne.",
+        "evolutionChain": [
+            {
+                "id": "22",
+                "name": "fearow"
+            }
+        ],
+        "height": 3,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+        "name": "spearow",
+        "type": "flying",
+        "weight": 20
+    },
+    {
+        "attack": 90,
+        "defense": 65,
+        "description": "With its huge and magnificent wings, it can keep aloft\fwithout ever having to land for rest.",
+        "evolutionChain": [
+            {
+                "id": "22",
+                "name": "fearow"
+            }
+        ],
+        "height": 12,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+        "name": "fearow",
+        "type": "flying",
+        "weight": 380
+    },
+    {
+        "attack": 60,
+        "defense": 44,
+        "description": "Moves silently and stealthily. Eats the eggs of\fbirds, such as PIDGEY and SPEAROW, whole.",
+        "evolutionChain": [
+            {
+                "id": "24",
+                "name": "arbok"
+            }
+        ],
+        "height": 20,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+        "name": "ekans",
+        "type": "poison",
+        "weight": 69
+    },
+    {
+        "attack": 95,
+        "defense": 69,
+        "description": "It is rumored that the ferocious warning markings\fon its belly differ from area to area.",
+        "evolutionChain": [
+            {
+                "id": "24",
+                "name": "arbok"
+            }
+        ],
+        "height": 35,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+        "name": "arbok",
+        "type": "poison",
+        "weight": 650
+    },
+    {
+        "attack": 55,
+        "defense": 40,
+        "description": "When several of these POKéMON gather, their\felectricity could build and cause lightning storms.",
+        "evolutionChain": [
+            {
+                "id": "25",
+                "name": "pikachu"
+            },
+            {
+                "id": "26",
+                "name": "raichu"
+            }
+        ],
+        "height": 4,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+        "name": "pikachu",
+        "type": "electric",
+        "weight": 60
+    },
+    {
+        "attack": 90,
+        "defense": 55,
+        "description": "Its long tail serves as a ground to protect\fitself from its own high voltage power.",
+        "evolutionChain": [
+            {
+                "id": "25",
+                "name": "pikachu"
+            },
+            {
+                "id": "26",
+                "name": "raichu"
+            }
+        ],
+        "height": 8,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+        "name": "raichu",
+        "type": "electric",
+        "weight": 300
+    },
+    {
+        "attack": 75,
+        "defense": 85,
+        "description": "Burrows deep underground in arid locations\ffar from water. It only emerges to hunt for food.",
+        "evolutionChain": [
+            {
+                "id": "28",
+                "name": "sandslash"
+            }
+        ],
+        "height": 6,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+        "name": "sandshrew",
+        "type": "ground",
+        "weight": 120
+    },
+    {
+        "attack": 100,
+        "defense": 110,
+        "description": "Curls up into a spiny ball when threatened. It\fcan roll while curled up to attack or escape.",
+        "evolutionChain": [
+            {
+                "id": "28",
+                "name": "sandslash"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+        "name": "sandslash",
+        "type": "ground",
+        "weight": 295
+    },
+    {
+        "attack": 47,
+        "defense": 52,
+        "description": "Although small, its venomous barbs render this\fPOKéMON dangerous. The female has smaller horns.",
+        "evolutionChain": [
+            {
+                "id": "30",
+                "name": "nidorina"
+            },
+            {
+                "id": "31",
+                "name": "nidoqueen"
+            }
+        ],
+        "height": 4,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+        "name": "nidoran-f",
+        "type": "poison",
+        "weight": 70
+    },
+    {
+        "attack": 62,
+        "defense": 67,
+        "description": "The female's horn develops slowly. Prefers physical\fattacks such as clawing and biting.",
+        "evolutionChain": [
+            {
+                "id": "30",
+                "name": "nidorina"
+            },
+            {
+                "id": "31",
+                "name": "nidoqueen"
+            }
+        ],
+        "height": 8,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+        "name": "nidorina",
+        "type": "poison",
+        "weight": 200
+    },
+    {
+        "attack": 92,
+        "defense": 87,
+        "description": "Its hard scales provide strong protection. It\fuses its hefty bulk to execute powerful moves.",
+        "evolutionChain": [
+            {
+                "id": "30",
+                "name": "nidorina"
+            },
+            {
+                "id": "31",
+                "name": "nidoqueen"
+            }
+        ],
+        "height": 13,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+        "name": "nidoqueen",
+        "type": "ground",
+        "weight": 600
+    },
+    {
+        "attack": 57,
+        "defense": 40,
+        "description": "Stiffens its ears to sense danger. The larger its\fhorns, the more powerful its secreted venom.",
+        "evolutionChain": [
+            {
+                "id": "33",
+                "name": "nidorino"
+            },
+            {
+                "id": "34",
+                "name": "nidoking"
+            }
+        ],
+        "height": 5,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+        "name": "nidoran-m",
+        "type": "poison",
+        "weight": 90
+    },
+    {
+        "attack": 72,
+        "defense": 57,
+        "description": "An aggressive POKéMON that is quick to attack.\fThe horn on its head secretes a powerful venom.",
+        "evolutionChain": [
+            {
+                "id": "33",
+                "name": "nidorino"
+            },
+            {
+                "id": "34",
+                "name": "nidoking"
+            }
+        ],
+        "height": 9,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+        "name": "nidorino",
+        "type": "poison",
+        "weight": 195
+    },
+    {
+        "attack": 102,
+        "defense": 77,
+        "description": "It uses its powerful tail in battle to smash,\fconstrict, then break the prey's bones.",
+        "evolutionChain": [
+            {
+                "id": "33",
+                "name": "nidorino"
+            },
+            {
+                "id": "34",
+                "name": "nidoking"
+            }
+        ],
+        "height": 14,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+        "name": "nidoking",
+        "type": "ground",
+        "weight": 620
+    },
+    {
+        "attack": 45,
+        "defense": 48,
+        "description": "Its magical and cute appeal has many admirers.\fIt is rare and found only in certain areas.",
+        "evolutionChain": [
+            {
+                "id": "35",
+                "name": "clefairy"
+            },
+            {
+                "id": "36",
+                "name": "clefable"
+            }
+        ],
+        "height": 6,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+        "name": "clefairy",
+        "type": "fairy",
+        "weight": 75
+    },
+    {
+        "attack": 70,
+        "defense": 73,
+        "description": "A timid fairy POKéMON that is rarely seen. It\fwill run and hide the moment it senses people.",
+        "evolutionChain": [
+            {
+                "id": "35",
+                "name": "clefairy"
+            },
+            {
+                "id": "36",
+                "name": "clefable"
+            }
+        ],
+        "height": 13,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+        "name": "clefable",
+        "type": "fairy",
+        "weight": 400
+    },
+    {
+        "attack": 41,
+        "defense": 40,
+        "description": "At the time of birth, it has just one tail.\fThe tail splits from its tip as it grows older.",
+        "evolutionChain": [
+            {
+                "id": "38",
+                "name": "ninetales"
+            }
+        ],
+        "height": 6,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+        "name": "vulpix",
+        "type": "fire",
+        "weight": 99
+    },
+    {
+        "attack": 76,
+        "defense": 75,
+        "description": "Very smart and very vengeful. Grabbing one of\fits many tails could result in a 1000-year curse.",
+        "evolutionChain": [
+            {
+                "id": "38",
+                "name": "ninetales"
+            }
+        ],
+        "height": 11,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+        "name": "ninetales",
+        "type": "fire",
+        "weight": 199
+    },
+    {
+        "attack": 45,
+        "defense": 20,
+        "description": "When its huge eyes light up, it sings a mysteriously\fsoothing melody that lulls its enemies to sleep.",
+        "evolutionChain": [
+            {
+                "id": "39",
+                "name": "jigglypuff"
+            },
+            {
+                "id": "40",
+                "name": "wigglytuff"
+            }
+        ],
+        "height": 5,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+        "name": "jigglypuff",
+        "type": "fairy",
+        "weight": 55
+    },
+    {
+        "attack": 70,
+        "defense": 45,
+        "description": "The body is soft and rubbery. When angered, it will\fsuck in air and inflate itself to an enormous size.",
+        "evolutionChain": [
+            {
+                "id": "39",
+                "name": "jigglypuff"
+            },
+            {
+                "id": "40",
+                "name": "wigglytuff"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+        "name": "wigglytuff",
+        "type": "fairy",
+        "weight": 120
+    },
+    {
+        "attack": 45,
+        "defense": 35,
+        "description": "Forms colonies in perpetually dark places. Uses\fultrasonic waves to identify and approach targets.",
+        "evolutionChain": [
+            {
+                "id": "42",
+                "name": "golbat"
+            },
+            {
+                "id": "169",
+                "name": "crobat"
+            }
+        ],
+        "height": 8,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+        "name": "zubat",
+        "type": "flying",
+        "weight": 75
+    },
+    {
+        "attack": 80,
+        "defense": 70,
+        "description": "Once it strikes, it will not stop draining energy\ffrom the victim even if it gets too heavy to fly.",
+        "evolutionChain": [
+            {
+                "id": "42",
+                "name": "golbat"
+            },
+            {
+                "id": "169",
+                "name": "crobat"
+            }
+        ],
+        "height": 16,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+        "name": "golbat",
+        "type": "flying",
+        "weight": 550
+    },
+    {
+        "attack": 50,
+        "defense": 55,
+        "description": "During the day, it keeps its face buried in the\fground. At night, it wanders around sowing its seeds.",
+        "evolutionChain": [
+            {
+                "id": "44",
+                "name": "gloom"
+            },
+            {
+                "id": "45",
+                "name": "vileplume"
+            }
+        ],
+        "height": 5,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+        "name": "oddish",
+        "type": "poison",
+        "weight": 54
+    },
+    {
+        "attack": 65,
+        "defense": 70,
+        "description": "The fluid that oozes from its mouth isn't drool.\fIt is a nectar that is used to attract prey.",
+        "evolutionChain": [
+            {
+                "id": "44",
+                "name": "gloom"
+            },
+            {
+                "id": "45",
+                "name": "vileplume"
+            }
+        ],
+        "height": 8,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+        "name": "gloom",
+        "type": "poison",
+        "weight": 86
+    },
+    {
+        "attack": 80,
+        "defense": 85,
+        "description": "The larger its petals, the more toxic pollen it\fcontains. Its big head is heavy and hard to hold up.",
+        "evolutionChain": [
+            {
+                "id": "44",
+                "name": "gloom"
+            },
+            {
+                "id": "45",
+                "name": "vileplume"
+            }
+        ],
+        "height": 12,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+        "name": "vileplume",
+        "type": "poison",
+        "weight": 186
+    },
+    {
+        "attack": 70,
+        "defense": 55,
+        "description": "Burrows to suck tree roots. The mushrooms on its\fback grow by draw­ ing nutrients from the bug host.",
+        "evolutionChain": [
+            {
+                "id": "47",
+                "name": "parasect"
+            }
+        ],
+        "height": 3,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+        "name": "paras",
+        "type": "grass",
+        "weight": 54
+    },
+    {
+        "attack": 95,
+        "defense": 80,
+        "description": "A host-parasite pair in which the parasite mushroom\fhas taken over the host bug. Prefers damp places.",
+        "evolutionChain": [
+            {
+                "id": "47",
+                "name": "parasect"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+        "name": "parasect",
+        "type": "grass",
+        "weight": 295
+    },
+    {
+        "attack": 55,
+        "defense": 50,
+        "description": "Lives in the shadows of tall trees where it\feats insects. It is attracted by light at night.",
+        "evolutionChain": [
+            {
+                "id": "49",
+                "name": "venomoth"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+        "name": "venonat",
+        "type": "poison",
+        "weight": 300
+    },
+    {
+        "attack": 65,
+        "defense": 60,
+        "description": "The dust-like scales covering its wings are\fcolor coded to indicate the kinds of poison it has.",
+        "evolutionChain": [
+            {
+                "id": "49",
+                "name": "venomoth"
+            }
+        ],
+        "height": 15,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+        "name": "venomoth",
+        "type": "poison",
+        "weight": 125
+    },
+    {
+        "attack": 55,
+        "defense": 25,
+        "description": "Lives about one yard underground where it feeds on\fplant roots. It sometimes appears above ground.",
+        "evolutionChain": [
+            {
+                "id": "51",
+                "name": "dugtrio"
+            }
+        ],
+        "height": 2,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+        "name": "diglett",
+        "type": "ground",
+        "weight": 8
+    },
+    {
+        "attack": 100,
+        "defense": 50,
+        "description": "A team of DIGLETT triplets. It triggers huge\fearthquakes by burrowing 60 miles underground.",
+        "evolutionChain": [
+            {
+                "id": "51",
+                "name": "dugtrio"
+            }
+        ],
+        "height": 7,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+        "name": "dugtrio",
+        "type": "ground",
+        "weight": 333
+    },
+    {
+        "attack": 45,
+        "defense": 35,
+        "description": "Adores circular objects. Wanders the streets on a\fnightly basis to look for dropped loose change.",
+        "evolutionChain": [
+            {
+                "id": "53",
+                "name": "persian"
+            }
+        ],
+        "height": 4,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+        "name": "meowth",
+        "type": "normal",
+        "weight": 42
+    },
+    {
+        "attack": 70,
+        "defense": 60,
+        "description": "Although its fur has many admirers, it is tough to\fraise as a pet because of its fickle meanness.",
+        "evolutionChain": [
+            {
+                "id": "53",
+                "name": "persian"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+        "name": "persian",
+        "type": "normal",
+        "weight": 320
+    },
+    {
+        "attack": 52,
+        "defense": 48,
+        "description": "While lulling its enemies with its vacant look, this\fwily POKéMON will use psychokinetic powers.",
+        "evolutionChain": [
+            {
+                "id": "55",
+                "name": "golduck"
+            }
+        ],
+        "height": 8,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+        "name": "psyduck",
+        "type": "water",
+        "weight": 196
+    },
+    {
+        "attack": 82,
+        "defense": 78,
+        "description": "Often seen swim­ ming elegantly by lake shores. It\fis often mistaken for the Japanese monster, Kappa.",
+        "evolutionChain": [
+            {
+                "id": "55",
+                "name": "golduck"
+            }
+        ],
+        "height": 17,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+        "name": "golduck",
+        "type": "water",
+        "weight": 766
+    },
+    {
+        "attack": 80,
+        "defense": 35,
+        "description": "Extremely quick to anger. It could be docile one\fmoment then thrashing away the next instant.",
+        "evolutionChain": [
+            {
+                "id": "57",
+                "name": "primeape"
+            }
+        ],
+        "height": 5,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+        "name": "mankey",
+        "type": "fighting",
+        "weight": 280
+    },
+    {
+        "attack": 105,
+        "defense": 60,
+        "description": "Always furious and tenacious to boot. It will not\fabandon chasing its quarry until it is caught.",
+        "evolutionChain": [
+            {
+                "id": "57",
+                "name": "primeape"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+        "name": "primeape",
+        "type": "fighting",
+        "weight": 320
+    },
+    {
+        "attack": 70,
+        "defense": 45,
+        "description": "Very protective of its territory. It will bark and\fbite to repel intruders from its space.",
+        "evolutionChain": [
+            {
+                "id": "59",
+                "name": "arcanine"
+            }
+        ],
+        "height": 7,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+        "name": "growlithe",
+        "type": "fire",
+        "weight": 190
+    },
+    {
+        "attack": 110,
+        "defense": 80,
+        "description": "A POKéMON that has been admired since the past\ffor its beauty. It runs agilely as if on wings.",
+        "evolutionChain": [
+            {
+                "id": "59",
+                "name": "arcanine"
+            }
+        ],
+        "height": 19,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+        "name": "arcanine",
+        "type": "fire",
+        "weight": 1550
+    },
+    {
+        "attack": 50,
+        "defense": 40,
+        "description": "Its newly grown legs prevent it from running. It\fappears to prefer swimming than trying to stand.",
+        "evolutionChain": [
+            {
+                "id": "61",
+                "name": "poliwhirl"
+            },
+            {
+                "id": "62",
+                "name": "poliwrath"
+            }
+        ],
+        "height": 6,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+        "name": "poliwag",
+        "type": "water",
+        "weight": 124
+    },
+    {
+        "attack": 65,
+        "defense": 65,
+        "description": "Capable of living in or out of water. When out\fof water, it sweats to keep its body slimy.",
+        "evolutionChain": [
+            {
+                "id": "61",
+                "name": "poliwhirl"
+            },
+            {
+                "id": "62",
+                "name": "poliwrath"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+        "name": "poliwhirl",
+        "type": "water",
+        "weight": 200
+    },
+    {
+        "attack": 95,
+        "defense": 95,
+        "description": "An adept swimmer at both the front crawl and breast\fstroke. Easily overtakes the best human swimmers.",
+        "evolutionChain": [
+            {
+                "id": "61",
+                "name": "poliwhirl"
+            },
+            {
+                "id": "62",
+                "name": "poliwrath"
+            }
+        ],
+        "height": 13,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+        "name": "poliwrath",
+        "type": "fighting",
+        "weight": 540
+    },
+    {
+        "attack": 20,
+        "defense": 15,
+        "description": "Using its ability to read minds, it will identify\fimpending danger and TELEPORT to safety.",
+        "evolutionChain": [
+            {
+                "id": "64",
+                "name": "kadabra"
+            },
+            {
+                "id": "65",
+                "name": "alakazam"
+            }
+        ],
+        "height": 9,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+        "name": "abra",
+        "type": "psychic",
+        "weight": 195
+    },
+    {
+        "attack": 35,
+        "defense": 30,
+        "description": "It emits special alpha waves from its body that\finduce headaches just by being close by.",
+        "evolutionChain": [
+            {
+                "id": "64",
+                "name": "kadabra"
+            },
+            {
+                "id": "65",
+                "name": "alakazam"
+            }
+        ],
+        "height": 13,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+        "name": "kadabra",
+        "type": "psychic",
+        "weight": 565
+    },
+    {
+        "attack": 50,
+        "defense": 45,
+        "description": "Its brain can out­ perform a super­ computer.\fIts intelligence quotient is said to be 5,000.",
+        "evolutionChain": [
+            {
+                "id": "64",
+                "name": "kadabra"
+            },
+            {
+                "id": "65",
+                "name": "alakazam"
+            }
+        ],
+        "height": 15,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+        "name": "alakazam",
+        "type": "psychic",
+        "weight": 480
+    },
+    {
+        "attack": 80,
+        "defense": 50,
+        "description": "Loves to build its muscles. It trains in all\fstyles of martial arts to become even stronger.",
+        "evolutionChain": [
+            {
+                "id": "67",
+                "name": "machoke"
+            },
+            {
+                "id": "68",
+                "name": "machamp"
+            }
+        ],
+        "height": 8,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+        "name": "machop",
+        "type": "fighting",
+        "weight": 195
+    },
+    {
+        "attack": 100,
+        "defense": 70,
+        "description": "Its muscular body is so powerful, it must wear a power\fsave belt to be able to regulate its motions.",
+        "evolutionChain": [
+            {
+                "id": "67",
+                "name": "machoke"
+            },
+            {
+                "id": "68",
+                "name": "machamp"
+            }
+        ],
+        "height": 15,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+        "name": "machoke",
+        "type": "fighting",
+        "weight": 705
+    },
+    {
+        "attack": 130,
+        "defense": 80,
+        "description": "Using its heavy muscles, it throws powerful punches\fthat can send the victim clear over the horizon.",
+        "evolutionChain": [
+            {
+                "id": "67",
+                "name": "machoke"
+            },
+            {
+                "id": "68",
+                "name": "machamp"
+            }
+        ],
+        "height": 16,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+        "name": "machamp",
+        "type": "fighting",
+        "weight": 1300
+    },
+    {
+        "attack": 75,
+        "defense": 35,
+        "description": "A carnivorous POKéMON that traps and eats bugs.\fIt uses its root feet to soak up needed moisture.",
+        "evolutionChain": [
+            {
+                "id": "70",
+                "name": "weepinbell"
+            },
+            {
+                "id": "71",
+                "name": "victreebel"
+            }
+        ],
+        "height": 7,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+        "name": "bellsprout",
+        "type": "poison",
+        "weight": 40
+    },
+    {
+        "attack": 90,
+        "defense": 50,
+        "description": "It spits out POISONPOWDER to immobilize the\fenemy and then finishes it with a spray of ACID.",
+        "evolutionChain": [
+            {
+                "id": "70",
+                "name": "weepinbell"
+            },
+            {
+                "id": "71",
+                "name": "victreebel"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+        "name": "weepinbell",
+        "type": "poison",
+        "weight": 64
+    },
+    {
+        "attack": 105,
+        "defense": 65,
+        "description": "Said to live in huge colonies deep in jungles,\falthough no one has ever returned from there.",
+        "evolutionChain": [
+            {
+                "id": "70",
+                "name": "weepinbell"
+            },
+            {
+                "id": "71",
+                "name": "victreebel"
+            }
+        ],
+        "height": 17,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+        "name": "victreebel",
+        "type": "poison",
+        "weight": 155
+    },
+    {
+        "attack": 40,
+        "defense": 35,
+        "description": "Drifts in shallow seas. Anglers who hook them by\faccident are often punished by its stinging acid.",
+        "evolutionChain": [
+            {
+                "id": "73",
+                "name": "tentacruel"
+            }
+        ],
+        "height": 9,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+        "name": "tentacool",
+        "type": "poison",
+        "weight": 455
+    },
+    {
+        "attack": 70,
+        "defense": 65,
+        "description": "The tentacles are normally kept short. On hunts,\fthey are extended to ensnare and immobilize prey.",
+        "evolutionChain": [
+            {
+                "id": "73",
+                "name": "tentacruel"
+            }
+        ],
+        "height": 16,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+        "name": "tentacruel",
+        "type": "poison",
+        "weight": 550
+    },
+    {
+        "attack": 80,
+        "defense": 100,
+        "description": "Found in fields and mountains. Mistaking them\ffor boulders, people often step or trip on them.",
+        "evolutionChain": [
+            {
+                "id": "75",
+                "name": "graveler"
+            },
+            {
+                "id": "76",
+                "name": "golem"
+            }
+        ],
+        "height": 4,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+        "name": "geodude",
+        "type": "ground",
+        "weight": 200
+    },
+    {
+        "attack": 95,
+        "defense": 115,
+        "description": "Rolls down slopes to move. It rolls over any obstacle\fwithout slowing or changing its direction.",
+        "evolutionChain": [
+            {
+                "id": "75",
+                "name": "graveler"
+            },
+            {
+                "id": "76",
+                "name": "golem"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+        "name": "graveler",
+        "type": "ground",
+        "weight": 1050
+    },
+    {
+        "attack": 120,
+        "defense": 130,
+        "description": "Its boulder-like body is extremely hard. It can\feasily withstand dynamite blasts without damage.",
+        "evolutionChain": [
+            {
+                "id": "75",
+                "name": "graveler"
+            },
+            {
+                "id": "76",
+                "name": "golem"
+            }
+        ],
+        "height": 14,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+        "name": "golem",
+        "type": "ground",
+        "weight": 3000
+    },
+    {
+        "attack": 85,
+        "defense": 55,
+        "description": "Its hooves are 10 times harder than diamonds. It can\ftrample anything completely flat in little time.",
+        "evolutionChain": [
+            {
+                "id": "78",
+                "name": "rapidash"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+        "name": "ponyta",
+        "type": "fire",
+        "weight": 300
+    },
+    {
+        "attack": 100,
+        "defense": 70,
+        "description": "Very competitive, this POKéMON will chase anything\fthat moves fast in the hopes of racing it.",
+        "evolutionChain": [
+            {
+                "id": "78",
+                "name": "rapidash"
+            }
+        ],
+        "height": 17,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+        "name": "rapidash",
+        "type": "fire",
+        "weight": 950
+    },
+    {
+        "attack": 65,
+        "defense": 65,
+        "description": "Incredibly slow and dopey. It takes 5 seconds\ffor it to feel pain when under attack.",
+        "evolutionChain": [
+            {
+                "id": "80",
+                "name": "slowbro"
+            }
+        ],
+        "height": 12,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+        "name": "slowpoke",
+        "type": "psychic",
+        "weight": 360
+    },
+    {
+        "attack": 75,
+        "defense": 110,
+        "description": "The SHELLDER that is latched onto SLOWPOKE's tail\fis said to feed on the host's left over scraps.",
+        "evolutionChain": [
+            {
+                "id": "80",
+                "name": "slowbro"
+            }
+        ],
+        "height": 16,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+        "name": "slowbro",
+        "type": "psychic",
+        "weight": 785
+    },
+    {
+        "attack": 35,
+        "defense": 70,
+        "description": "Uses anti-gravity to stay suspended. Appears without\fwarning and uses THUNDER WAVE and similar moves.",
+        "evolutionChain": [
+            {
+                "id": "82",
+                "name": "magneton"
+            },
+            {
+                "id": "462",
+                "name": "magnezone"
+            }
+        ],
+        "height": 3,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+        "name": "magnemite",
+        "type": "steel",
+        "weight": 60
+    },
+    {
+        "attack": 60,
+        "defense": 95,
+        "description": "Formed by several MAGNEMITEs linked together. They\ffrequently appear when sunspots flare up.",
+        "evolutionChain": [
+            {
+                "id": "82",
+                "name": "magneton"
+            },
+            {
+                "id": "462",
+                "name": "magnezone"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+        "name": "magneton",
+        "type": "steel",
+        "weight": 600
+    },
+    {
+        "attack": 90,
+        "defense": 55,
+        "description": "The sprig of green onions it holds is its\fweapon. It is used much like a metal sword.",
+        "height": 8,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+        "name": "farfetchd",
+        "type": "flying",
+        "weight": 150
+    },
+    {
+        "attack": 85,
+        "defense": 45,
+        "description": "A bird that makes up for its poor flying with its\ffast foot speed. Leaves giant footprints.",
+        "evolutionChain": [
+            {
+                "id": "85",
+                "name": "dodrio"
+            }
+        ],
+        "height": 14,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+        "name": "doduo",
+        "type": "flying",
+        "weight": 392
+    },
+    {
+        "attack": 110,
+        "defense": 70,
+        "description": "Uses its three brains to execute complex plans.\fWhile two heads sleep, one head stays awake.",
+        "evolutionChain": [
+            {
+                "id": "85",
+                "name": "dodrio"
+            }
+        ],
+        "height": 18,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+        "name": "dodrio",
+        "type": "flying",
+        "weight": 852
+    },
+    {
+        "attack": 45,
+        "defense": 55,
+        "description": "The protruding horn on its head is very hard.\fIt is used for bashing through thick ice.",
+        "evolutionChain": [
+            {
+                "id": "87",
+                "name": "dewgong"
+            }
+        ],
+        "height": 11,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+        "name": "seel",
+        "type": "water",
+        "weight": 900
+    },
+    {
+        "attack": 70,
+        "defense": 80,
+        "description": "Stores thermal energy in its body. Swims at a\fsteady 8 knots even in intensely cold waters.",
+        "evolutionChain": [
+            {
+                "id": "87",
+                "name": "dewgong"
+            }
+        ],
+        "height": 17,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+        "name": "dewgong",
+        "type": "ice",
+        "weight": 1200
+    },
+    {
+        "attack": 80,
+        "defense": 50,
+        "description": "Appears in filthy areas. Thrives by sucking up\fpolluted sludge that is pumped out of factories.",
+        "evolutionChain": [
+            {
+                "id": "89",
+                "name": "muk"
+            }
+        ],
+        "height": 9,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+        "name": "grimer",
+        "type": "poison",
+        "weight": 300
+    },
+    {
+        "attack": 105,
+        "defense": 75,
+        "description": "Thickly covered with a filthy, vile sludge. It\fis so toxic, even its footprints contain poison.",
+        "evolutionChain": [
+            {
+                "id": "89",
+                "name": "muk"
+            }
+        ],
+        "height": 12,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+        "name": "muk",
+        "type": "poison",
+        "weight": 300
+    },
+    {
+        "attack": 65,
+        "defense": 100,
+        "description": "Its hard shell repels any kind of attack.\fIt is vulnerable only when its shell is open.",
+        "evolutionChain": [
+            {
+                "id": "91",
+                "name": "cloyster"
+            }
+        ],
+        "height": 3,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+        "name": "shellder",
+        "type": "water",
+        "weight": 40
+    },
+    {
+        "attack": 95,
+        "defense": 180,
+        "description": "When attacked, it launches its horns in quick\fvolleys. Its innards have never been seen.",
+        "evolutionChain": [
+            {
+                "id": "91",
+                "name": "cloyster"
+            }
+        ],
+        "height": 15,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+        "name": "cloyster",
+        "type": "ice",
+        "weight": 1325
+    },
+    {
+        "attack": 35,
+        "defense": 30,
+        "description": "Almost invisible, this gaseous POKéMON cloaks\fthe target and puts it to sleep without notice.",
+        "evolutionChain": [
+            {
+                "id": "93",
+                "name": "haunter"
+            },
+            {
+                "id": "94",
+                "name": "gengar"
+            }
+        ],
+        "height": 13,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+        "name": "gastly",
+        "type": "poison",
+        "weight": 1
+    },
+    {
+        "attack": 50,
+        "defense": 45,
+        "description": "Because of its ability to slip through block\fwalls, it is said to be from an­ other dimension.",
+        "evolutionChain": [
+            {
+                "id": "93",
+                "name": "haunter"
+            },
+            {
+                "id": "94",
+                "name": "gengar"
+            }
+        ],
+        "height": 16,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+        "name": "haunter",
+        "type": "poison",
+        "weight": 1
+    },
+    {
+        "attack": 65,
+        "defense": 60,
+        "description": "Under a full moon, this POKéMON likes to mimic\fthe shadows of people and laugh at their fright.",
+        "evolutionChain": [
+            {
+                "id": "93",
+                "name": "haunter"
+            },
+            {
+                "id": "94",
+                "name": "gengar"
+            }
+        ],
+        "height": 15,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+        "name": "gengar",
+        "type": "poison",
+        "weight": 405
+    },
+    {
+        "attack": 45,
+        "defense": 160,
+        "description": "As it grows, the stone portions of its body harden\fto become similar to a diamond, but colored black.",
+        "evolutionChain": [
+            {
+                "id": "208",
+                "name": "steelix"
+            }
+        ],
+        "height": 88,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+        "name": "onix",
+        "type": "ground",
+        "weight": 2100
+    },
+    {
+        "attack": 48,
+        "defense": 45,
+        "description": "Puts enemies to sleep then eats their dreams.\fOccasionally gets sick from eating bad dreams.",
+        "evolutionChain": [
+            {
+                "id": "97",
+                "name": "hypno"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+        "name": "drowzee",
+        "type": "psychic",
+        "weight": 324
+    },
+    {
+        "attack": 73,
+        "defense": 70,
+        "description": "When it locks eyes with an enemy, it will use a mix of\fPSI moves such as HYPNOSIS and CONFUSION.",
+        "evolutionChain": [
+            {
+                "id": "97",
+                "name": "hypno"
+            }
+        ],
+        "height": 16,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+        "name": "hypno",
+        "type": "psychic",
+        "weight": 756
+    },
+    {
+        "attack": 105,
+        "defense": 90,
+        "description": "Its pincers are not only powerful weapons, they are\fused for balance when walking sideways.",
+        "evolutionChain": [
+            {
+                "id": "99",
+                "name": "kingler"
+            }
+        ],
+        "height": 4,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+        "name": "krabby",
+        "type": "water",
+        "weight": 65
+    },
+    {
+        "attack": 130,
+        "defense": 115,
+        "description": "The large pincer has 10000 hp of crushing power.\fHowever, its huge size makes it unwieldy to use.",
+        "evolutionChain": [
+            {
+                "id": "99",
+                "name": "kingler"
+            }
+        ],
+        "height": 13,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+        "name": "kingler",
+        "type": "water",
+        "weight": 600
+    },
+    {
+        "attack": 30,
+        "defense": 50,
+        "description": "Usually found in power plants. Easily mistaken\ffor a POKé BALL, they have zapped many people.",
+        "evolutionChain": [
+            {
+                "id": "101",
+                "name": "electrode"
+            }
+        ],
+        "height": 5,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+        "name": "voltorb",
+        "type": "electric",
+        "weight": 104
+    },
+    {
+        "attack": 50,
+        "defense": 70,
+        "description": "It stores electric energy under very high pressure.\fIt often explodes with little or no provocation.",
+        "evolutionChain": [
+            {
+                "id": "101",
+                "name": "electrode"
+            }
+        ],
+        "height": 12,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+        "name": "electrode",
+        "type": "electric",
+        "weight": 666
+    },
+    {
+        "attack": 40,
+        "defense": 80,
+        "description": "Often mistaken for eggs. When disturbed,\fthey quickly gather and attack in swarms.",
+        "evolutionChain": [
+            {
+                "id": "103",
+                "name": "exeggutor"
+            }
+        ],
+        "height": 4,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+        "name": "exeggcute",
+        "type": "psychic",
+        "weight": 25
+    },
+    {
+        "attack": 95,
+        "defense": 85,
+        "description": "Legend has it that on rare occasions, one of its heads\fwill drop off and continue on as an EXEGGCUTE.",
+        "evolutionChain": [
+            {
+                "id": "103",
+                "name": "exeggutor"
+            }
+        ],
+        "height": 20,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+        "name": "exeggutor",
+        "type": "psychic",
+        "weight": 1200
+    },
+    {
+        "attack": 50,
+        "defense": 95,
+        "description": "Because it never removes its skull helmet, no one\fhas ever seen this POKéMON's real face.",
+        "evolutionChain": [
+            {
+                "id": "105",
+                "name": "marowak"
+            }
+        ],
+        "height": 4,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+        "name": "cubone",
+        "type": "ground",
+        "weight": 65
+    },
+    {
+        "attack": 80,
+        "defense": 110,
+        "description": "The bone it holds is its key weapon. It throws the\fbone skillfully like a boomerang to KO targets.",
+        "evolutionChain": [
+            {
+                "id": "105",
+                "name": "marowak"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+        "name": "marowak",
+        "type": "ground",
+        "weight": 450
+    },
+    {
+        "attack": 120,
+        "defense": 53,
+        "description": "When in a hurry, its legs lengthen progressively.\fIt runs smoothly with extra long, loping strides.",
+        "evolutionChain": [
+            {
+                "id": "106",
+                "name": "hitmonlee"
+            }
+        ],
+        "height": 15,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+        "name": "hitmonlee",
+        "type": "fighting",
+        "weight": 498
+    },
+    {
+        "attack": 105,
+        "defense": 79,
+        "description": "While apparently doing nothing, it fires punches in\flightning fast volleys that are impossible to see.",
+        "evolutionChain": [
+            {
+                "id": "106",
+                "name": "hitmonlee"
+            }
+        ],
+        "height": 14,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+        "name": "hitmonchan",
+        "type": "fighting",
+        "weight": 502
+    },
+    {
+        "attack": 55,
+        "defense": 75,
+        "description": "Its tongue can be extended like a chameleon's. It\fleaves a tingling sensation when it licks enemies.",
+        "evolutionChain": [
+            {
+                "id": "463",
+                "name": "lickilicky"
+            }
+        ],
+        "height": 12,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+        "name": "lickitung",
+        "type": "normal",
+        "weight": 655
+    },
+    {
+        "attack": 65,
+        "defense": 95,
+        "description": "Because it stores several kinds of toxic gases in\fits body, it is prone to exploding without warning.",
+        "evolutionChain": [
+            {
+                "id": "110",
+                "name": "weezing"
+            }
+        ],
+        "height": 6,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+        "name": "koffing",
+        "type": "poison",
+        "weight": 10
+    },
+    {
+        "attack": 90,
+        "defense": 120,
+        "description": "Where two kinds of poison gases meet, 2 KOFFINGs\fcan fuse into a WEEZING over many years.",
+        "evolutionChain": [
+            {
+                "id": "110",
+                "name": "weezing"
+            }
+        ],
+        "height": 12,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+        "name": "weezing",
+        "type": "poison",
+        "weight": 95
+    },
+    {
+        "attack": 85,
+        "defense": 95,
+        "description": "Its massive bones are 1000 times harder than human\fbones. It can easily knock a trailer flying.",
+        "evolutionChain": [
+            {
+                "id": "112",
+                "name": "rhydon"
+            },
+            {
+                "id": "464",
+                "name": "rhyperior"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+        "name": "rhyhorn",
+        "type": "rock",
+        "weight": 1150
+    },
+    {
+        "attack": 130,
+        "defense": 120,
+        "description": "Protected by an armor-like hide, it is capable of\fliving in molten lava of 3,600 degrees.",
+        "evolutionChain": [
+            {
+                "id": "112",
+                "name": "rhydon"
+            },
+            {
+                "id": "464",
+                "name": "rhyperior"
+            }
+        ],
+        "height": 19,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+        "name": "rhydon",
+        "type": "rock",
+        "weight": 1200
+    },
+    {
+        "attack": 5,
+        "defense": 5,
+        "description": "A rare and elusive POKéMON that is said to bring\fhappiness to those who manage to get it.",
+        "evolutionChain": [
+            {
+                "id": "113",
+                "name": "chansey"
+            },
+            {
+                "id": "242",
+                "name": "blissey"
+            }
+        ],
+        "height": 11,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+        "name": "chansey",
+        "type": "normal",
+        "weight": 346
+    },
+    {
+        "attack": 55,
+        "defense": 115,
+        "description": "The whole body is swathed with wide vines that are\fsimilar to sea­ weed. Its vines shake as it walks.",
+        "evolutionChain": [
+            {
+                "id": "465",
+                "name": "tangrowth"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+        "name": "tangela",
+        "type": "grass",
+        "weight": 350
+    },
+    {
+        "attack": 95,
+        "defense": 80,
+        "defense:": 80,
+        "description": "The infant rarely ventures out of its mother's\fprotective pouch until it is 3 years old.",
+        "height": 22,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+        "name": "kangaskhan",
+        "type": "normal",
+        "weight": 800
+    },
+    {
+        "attack": 40,
+        "defense": 70,
+        "description": "Known to shoot down flying bugs with precision\fblasts of ink from the surface of the water.",
+        "evolutionChain": [
+            {
+                "id": "117",
+                "name": "seadra"
+            },
+            {
+                "id": "230",
+                "name": "kingdra"
+            }
+        ],
+        "height": 4,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+        "name": "horsea",
+        "type": "water",
+        "weight": 80
+    },
+    {
+        "attack": 65,
+        "defense": 95,
+        "description": "Capable of swim­ ming backwards by rapidly flapping\fits wing-like pectoral fins and stout tail.",
+        "evolutionChain": [
+            {
+                "id": "117",
+                "name": "seadra"
+            },
+            {
+                "id": "230",
+                "name": "kingdra"
+            }
+        ],
+        "height": 12,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+        "name": "seadra",
+        "type": "water",
+        "weight": 250
+    },
+    {
+        "attack": 67,
+        "defense": 60,
+        "description": "Its tail fin billows like an elegant ballroom\fdress, giving it the nickname of the Water Queen.",
+        "evolutionChain": [
+            {
+                "id": "119",
+                "name": "seaking"
+            }
+        ],
+        "height": 6,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+        "name": "goldeen",
+        "type": "water",
+        "weight": 150
+    },
+    {
+        "attack": 92,
+        "defense": 65,
+        "description": "In the autumn spawning season, they can be seen\fswimming power­ fully up rivers and creeks.",
+        "evolutionChain": [
+            {
+                "id": "119",
+                "name": "seaking"
+            }
+        ],
+        "height": 13,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+        "name": "seaking",
+        "type": "water",
+        "weight": 390
+    },
+    {
+        "attack": 45,
+        "defense": 55,
+        "description": "An enigmatic POKéMON that can effortlessly\fregenerate any appendage it loses in battle.",
+        "evolutionChain": [
+            {
+                "id": "121",
+                "name": "starmie"
+            }
+        ],
+        "height": 8,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+        "name": "staryu",
+        "type": "water",
+        "weight": 345
+    },
+    {
+        "attack": 75,
+        "defense": 85,
+        "description": "Its central core glows with the seven colors of\fthe rainbow. Some people value the core as a gem.",
+        "evolutionChain": [
+            {
+                "id": "121",
+                "name": "starmie"
+            }
+        ],
+        "height": 11,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+        "name": "starmie",
+        "type": "psychic",
+        "weight": 800
+    },
+    {
+        "attack": 45,
+        "defense": 65,
+        "description": "If interrupted while it is miming, it will\fslap around the offender with its broad hands.",
+        "evolutionChain": [
+            {
+                "id": "122",
+                "name": "mr-mime"
+            }
+        ],
+        "height": 13,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+        "name": "mr-mime",
+        "type": "fairy",
+        "weight": 545
+    },
+    {
+        "attack": 110,
+        "defense": 80,
+        "description": "With ninja-like agility and speed, it can create the\fillusion that there is more than one.",
+        "evolutionChain": [
+            {
+                "id": "212",
+                "name": "scizor"
+            }
+        ],
+        "height": 15,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+        "name": "scyther",
+        "type": "flying",
+        "weight": 560
+    },
+    {
+        "attack": 50,
+        "defense": 35,
+        "description": "It seductively wiggles its hips as it walks. It\fcan cause people to dance in unison with it.",
+        "evolutionChain": [
+            {
+                "id": "124",
+                "name": "jynx"
+            }
+        ],
+        "height": 14,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+        "name": "jynx",
+        "type": "psychic",
+        "weight": 406
+    },
+    {
+        "attack": 83,
+        "defense": 57,
+        "description": "Normally found near power plants, they can wander\faway and cause major blackouts in cities.",
+        "evolutionChain": [
+            {
+                "id": "125",
+                "name": "electabuzz"
+            },
+            {
+                "id": "466",
+                "name": "electivire"
+            }
+        ],
+        "height": 11,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+        "name": "electabuzz",
+        "type": "electric",
+        "weight": 300
+    },
+    {
+        "attack": 95,
+        "defense": 57,
+        "description": "Its body always burns with an orange glow that\fenables it to hide perfectly among flames.",
+        "evolutionChain": [
+            {
+                "id": "126",
+                "name": "magmar"
+            },
+            {
+                "id": "467",
+                "name": "magmortar"
+            }
+        ],
+        "height": 13,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+        "name": "magmar",
+        "type": "fire",
+        "weight": 445
+    },
+    {
+        "attack": 125,
+        "defense": 100,
+        "description": "If it fails to crush the victim in its pincers,\fit will swing it around and toss it hard.",
+        "height": 15,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+        "name": "pinsir",
+        "type": "bug",
+        "weight": 550
+    },
+    {
+        "attack": 100,
+        "defense": 95,
+        "description": "When it targets an enemy, it charges furiously\fwhile whipping its body with its long tails.",
+        "height": 14,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+        "name": "tauros",
+        "type": "normal",
+        "weight": 884
+    },
+    {
+        "attack": 10,
+        "defense": 55,
+        "description": "In the distant past, it was somewhat stronger\fthan the horribly weak descendants that exist today.",
+        "evolutionChain": [
+            {
+                "id": "130",
+                "name": "gyarados"
+            }
+        ],
+        "height": 9,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+        "name": "magikarp",
+        "type": "water",
+        "weight": 100
+    },
+    {
+        "attack": 125,
+        "defense": 79,
+        "description": "Rarely seen in the wild. Huge and vicious, it\fis capable of destroying entire cities in a rage.",
+        "evolutionChain": [
+            {
+                "id": "130",
+                "name": "gyarados"
+            }
+        ],
+        "height": 65,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+        "name": "gyarados",
+        "type": "flying",
+        "weight": 2350
+    },
+    {
+        "attack": 85,
+        "defense": 80,
+        "description": "A POKéMON that has been over­ hunted almost to\fextinction. It can ferry people across the water.",
+        "height": 25,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+        "name": "lapras",
+        "type": "ice",
+        "weight": 2200
+    },
+    {
+        "attack": 48,
+        "defense": 48,
+        "description": "Capable of copying an enemy's genetic code to instantly\ftransform itself into a duplicate of the enemy.",
+        "height": 3,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+        "name": "ditto",
+        "type": "normal",
+        "weight": 40
+    },
+    {
+        "attack": 55,
+        "defense": 50,
+        "description": "Its genetic code is irregular. It may mutate if\fit is exposed to radiation from element STONEs.",
+        "evolutionChain": [
+            {
+                "id": "134",
+                "name": "vaporeon"
+            }
+        ],
+        "height": 3,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+        "name": "eevee",
+        "type": "normal",
+        "weight": 65
+    },
+    {
+        "attack": 65,
+        "defense": 60,
+        "description": "Lives close to water. Its long tail is ridged\fwith a fin which is often mistaken for a mermaid's.",
+        "evolutionChain": [
+            {
+                "id": "134",
+                "name": "vaporeon"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+        "name": "vaporeon",
+        "type": "water",
+        "weight": 290
+    },
+    {
+        "attack": 65,
+        "defense": 60,
+        "description": "It accumulates negative ions in the atmosphere to\fblast out 10000- volt lightning bolts.",
+        "evolutionChain": [
+            {
+                "id": "134",
+                "name": "vaporeon"
+            }
+        ],
+        "height": 8,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+        "name": "jolteon",
+        "type": "electric",
+        "weight": 245
+    },
+    {
+        "attack": 130,
+        "defense": 60,
+        "description": "When storing thermal energy in its body, its\ftemperature could soar to over 1600 degrees.",
+        "evolutionChain": [
+            {
+                "id": "134",
+                "name": "vaporeon"
+            }
+        ],
+        "height": 9,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+        "name": "flareon",
+        "type": "fire",
+        "weight": 250
+    },
+    {
+        "attack": 60,
+        "defense": 70,
+        "description": "A POKéMON that consists entirely of programming\fcode. Capable of moving freely in cyberspace.",
+        "evolutionChain": [
+            {
+                "id": "233",
+                "name": "porygon2"
+            },
+            {
+                "id": "474",
+                "name": "porygon-z"
+            }
+        ],
+        "height": 8,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+        "name": "porygon",
+        "type": "normal",
+        "weight": 365
+    },
+    {
+        "attack": 40,
+        "defense": 100,
+        "description": "Although long extinct, in rare cases, it can be\fgenetically resurrected from fossils.",
+        "evolutionChain": [
+            {
+                "id": "139",
+                "name": "omastar"
+            }
+        ],
+        "height": 4,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+        "name": "omanyte",
+        "type": "water",
+        "weight": 75
+    },
+    {
+        "attack": 60,
+        "defense": 125,
+        "description": "A prehistoric POKéMON that died out when its\fheavy shell made it impossible to catch prey.",
+        "evolutionChain": [
+            {
+                "id": "139",
+                "name": "omastar"
+            }
+        ],
+        "height": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+        "name": "omastar",
+        "type": "water",
+        "weight": 350
+    },
+    {
+        "attack": 80,
+        "defense": 90,
+        "description": "A POKéMON that was resurrected from a fossil\ffound in what was once the ocean floor eons ago.",
+        "evolutionChain": [
+            {
+                "id": "141",
+                "name": "kabutops"
+            }
+        ],
+        "height": 5,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+        "name": "kabuto",
+        "type": "water",
+        "weight": 115
+    },
+    {
+        "attack": 115,
+        "defense": 105,
+        "description": "Its sleek shape is perfect for swim­ ming. It slashes\fprey with its claws and drains the body fluids.",
+        "evolutionChain": [
+            {
+                "id": "141",
+                "name": "kabutops"
+            }
+        ],
+        "height": 13,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+        "name": "kabutops",
+        "type": "water",
+        "weight": 405
+    },
+    {
+        "attack": 105,
+        "defense": 65,
+        "description": "A ferocious, pre­ historic POKéMON that goes for the\fenemy's throat with its serrated saw-like fangs.",
+        "height": 18,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+        "name": "aerodactyl",
+        "type": "flying",
+        "weight": 590
+    },
+    {
+        "attack": 110,
+        "defense": 65,
+        "description": "Very lazy. Just eats and sleeps. As its rotund\fbulk builds, it becomes steadily more slothful.",
+        "evolutionChain": [
+            {
+                "id": "143",
+                "name": "snorlax"
+            }
+        ],
+        "height": 21,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+        "name": "snorlax",
+        "type": "normal",
+        "weight": 4600
+    },
+    {
+        "attack": 85,
+        "defense": 100,
+        "description": "A legendary bird POKéMON that is said to appear to\fdoomed people who are lost in icy mountains.",
+        "height": 17,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+        "name": "articuno",
+        "type": "flying",
+        "weight": 554
+    },
+    {
+        "attack": 90,
+        "defense": 85,
+        "description": "A legendary bird POKéMON that is said to appear\ffrom clouds while dropping enormous lightning bolts.",
+        "height": 16,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+        "name": "zapdos",
+        "type": "flying",
+        "weight": 526
+    },
+    {
+        "attack": 100,
+        "defense": 90,
+        "description": "Known as the legendary bird of fire. Every flap\fof its wings creates a dazzling flash of flames.",
+        "height": 20,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+        "name": "moltres",
+        "type": "flying",
+        "weight": 600
+    },
+    {
+        "attack": 64,
+        "defense": 45,
+        "description": "Long considered a mythical POKéMON until recently\fwhen a small colony was found living underwater.",
+        "evolutionChain": [
+            {
+                "id": "148",
+                "name": "dragonair"
+            },
+            {
+                "id": "149",
+                "name": "dragonite"
+            }
+        ],
+        "height": 18,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+        "name": "dratini",
+        "type": "dragon",
+        "weight": 33
+    },
+    {
+        "attack": 84,
+        "defense": 65,
+        "description": "A mystical POKéMON that exudes a gentle aura.\fHas the ability to change climate conditions.",
+        "evolutionChain": [
+            {
+                "id": "148",
+                "name": "dragonair"
+            },
+            {
+                "id": "149",
+                "name": "dragonite"
+            }
+        ],
+        "height": 40,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+        "name": "dragonair",
+        "type": "dragon",
+        "weight": 165
+    },
+    {
+        "attack": 134,
+        "defense": 95,
+        "description": "An extremely rarely seen marine POKéMON.\fIts intelligence is said to match that of humans.",
+        "evolutionChain": [
+            {
+                "id": "148",
+                "name": "dragonair"
+            },
+            {
+                "id": "149",
+                "name": "dragonite"
+            }
+        ],
+        "height": 22,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+        "name": "dragonite",
+        "type": "flying",
+        "weight": 2100
+    },
+    {
+        "attack": 110,
+        "defense": 90,
+        "description": "It was created by a scientist after years of horrific\fgene splicing and DNA engineering experiments.",
+        "height": 20,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+        "name": "mewtwo",
+        "type": "psychic",
+        "weight": 1220
+    },
+    {
+        "attack": 100,
+        "defense": 100,
+        "description": "So rare that it is still said to be a mirage by\fmany experts. Only a few people have seen it worldwide.",
+        "height": 4,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+        "name": "mew",
+        "type": "psychic",
+        "weight": 40
+    }
+]
