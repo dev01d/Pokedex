@@ -99,7 +99,7 @@ class InfoView: UIView {
         button.setTitle("View More Info", for: .normal)
         button.setTitleColor(.white, for: .normal)
         button.titleLabel?.font = UIFont.boldSystemFont(ofSize: 16)
-        button.addTarget(self, action: #selector(handleViewMoreInfo), for: .touchUpInside)
+        button.addTarget(InfoView.self, action: #selector(handleViewMoreInfo), for: .touchUpInside)
         button.translatesAutoresizingMaskIntoConstraints = false
         button.layer.cornerRadius = 5
         return button
